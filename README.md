@@ -1,9 +1,10 @@
 ### Seja bem vindo
 ## Meu nome é João Kavalciuki
-##📚 Atualmente sou estudante do segundo semestre de DSM na Fatec-ZL
-##💻 Estudo desenvolvimento Android e Kotlin por conta 
+📚 Atualmente sou estudante do segundo semestre de DSM na Fatec-ZL
 
-##Sobre mim
+💻 Estudo desenvolvimento Android e Kotlin por conta 
+
+Sobre mim
 <code><img height="20" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></code>
 <code><img height="20" src ="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></code>
 
