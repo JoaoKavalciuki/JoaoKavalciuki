@@ -6,8 +6,7 @@
 ##Sobre mim
 <code><img height="20" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></code>
 <code><img height="20" src ="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></code>
-
-[![JoaoKavalciuki GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoKavalciuki&show_icons=true&theme= tokyonight)](https://github.com/JoaoKavalciuki/github-readme-stats)
+[![JoaoKavalciuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoKavalciuki)](https://github.com/JoaoKavalciuki/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKavalciuki&layout=compact)](https://github.com/JoaoKavalciuki/github-readme-stats)
 <!--
