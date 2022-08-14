@@ -1,6 +1,6 @@
 ### Seja bem vindo
 ## Meu nome é João Kavalciuki
-📚 Atualmente sou estudante do segundo semestre de DSM na Fatec-ZL
+📚 Atualmente sou estudante do segundo semestre de DSM na Fatec Diadema
 
 💻 Estudo desenvolvimento Android e Kotlin por conta 
 
