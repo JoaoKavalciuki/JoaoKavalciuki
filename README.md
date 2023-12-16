@@ -5,6 +5,7 @@
 💻 Estudo desenvolvimento Android e Kotlin por conta 
 
 💻 Participei da construção da API do Projeto Bookshifter com Java, usando os frameworks Spring boot e Spring Security.
+
     Nesse projeto, foi aplicado principalmente padrão MVC, injeção de dependências, princípios de responsabilidade única e de segregação de interfaces.
 
 [![JoaoKavalciuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoKavalciuki)](https://github.com/JoaoKavalciuki/github-readme-stats)
