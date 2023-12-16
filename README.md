@@ -3,8 +3,9 @@
 📚 Atualmente sou estudante do quinto semestre de DSM na Fatec Diadema
 
 💻 Estudo desenvolvimento Android e Kotlin por conta 
-💻 Participei da construção da API do Projeto Bookshifter com Java, usando os frameworks Spring boot e Spring Security, link para o projeto do backend: https://github.com/Bookshifter/Bookshifter/tree/backend-joao/backend.
-    Nesse projeto, foi aplicado principalmente padrão MVC, injeção de dependências e o princípio de segregaçãio de interfaces.
+
+💻 Participei da construção da API do Projeto Bookshifter com Java, usando os frameworks Spring boot e Spring Security.
+    Nesse projeto, foi aplicado principalmente padrão MVC, injeção de dependências, princípios de responsabilidade única e de segregação de interfaces.
 
 [![JoaoKavalciuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoKavalciuki)](https://github.com/JoaoKavalciuki/github-readme-stats)
 
